@@ -8,7 +8,7 @@ Diego Beristain de la Mora
 
 ## Ver Proyecto en vivo 👁️
 
-
+ https://zlocker01.github.io/Barra-con-Animacion/
 
 ## Instalacion 🔌
 
